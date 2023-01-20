@@ -174,7 +174,7 @@ function mesesDelAño(array) {
    if(nuevoArray.length !== 3) {
       return 'No se encontraron los meses pedidos';
    }
-   else {
+   else{
    return nuevoArray;
 }
 }
